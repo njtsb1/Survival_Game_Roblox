@@ -40,6 +40,6 @@ This repository contains the core scripts and configuration to run a simple zomb
 - **Audio**: attach `Sound` instances on the server for global effects or use client WebAudio for local effects. Persist volume and mute settings in `PlayerGui` or `Player` attributes.  
 - **Navigation**: use `PathfindingService` for smarter zombie movement around obstacles.
 
-![Screenshot](./docs/assets/game.png)
+<img width="1337" height="552" alt="game" src="https://github.com/user-attachments/assets/39d18387-066c-43fb-b136-d4ced3e35d8b" />
 
 [LICENSE](./LICENSE)
