@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node / tooling
+node_modules/
+.env
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Roblox Studio place files (optional)
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Local / temporary
+*.local
+tmp/
+dist/
+build/
