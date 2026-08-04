@@ -24,3 +24,10 @@ node_modules/
 tmp/
 dist/
 build/
+
+# Hide the docs folder (everything inside it)
+
+# Ignore the entire docs folder and its contents
+docs/
+docs/*
+!docs/.gitkeep
